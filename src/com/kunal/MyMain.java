@@ -37,7 +37,7 @@ public class MyMain extends Application {
 		Scene scene = new Scene(rootNode, 300, 275);
 
 		primaryStage.setScene(scene);
-		primaryStage.setTitle("Hello JavaFX");
+		primaryStage.setTitle("Temperature Converter tool");
 		primaryStage.show();
 	}
 

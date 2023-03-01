@@ -12,7 +12,7 @@
     <children>
         <Pane prefHeight="200.0" prefWidth="200.0">
             <children>
-                <Label fx:id="welcomelabel" layoutX="74.0" layoutY="42.0" prefHeight="31.0" prefWidth="122.0" text="Welcome">
+                <Label fx:id="welcomelabel" alignment="CENTER" layoutX="74.0" layoutY="42.0" prefHeight="31.0" prefWidth="122.0" text="Welcome">
                     <font>
                         <Font name="System Bold" size="21.0" />
                     </font>
